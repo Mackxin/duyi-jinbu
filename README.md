@@ -198,3 +198,38 @@
 > 11.10 typeof undefined == typeof NULL的值是什么？
 >
 > 11.11 代码返回后会怎么样？
+>
+> 11.19 谈谈你对webpack的看法
+>
+> 11.20 javascript面向对象中继承实现
+>
+> 11.21 看代码求结果
+>
+> 11.22 看代码求结果
+>
+> 11.23 position的值，relative和absolute分别是相对于谁进行定位的
+>
+> 11.24 看代码求结果
+>
+> 11.25 看代码的返回值
+>
+> 11.26 自己看题目，好长
+>
+> 11.27 当我们在浏览器中输入url之后，网络上都会发生什么
+>
+> 28号开始升级为每天一大点哈
+>
+> 11.28 javascript的addEventListener()及attachEvent()区别分析
+>
+> 11.29 请描述一下cookies，sessionStorage和localStorage的区别
+>
+> 11.30 说说封装好的ajax里的几个参数
+
+## 201812
+
+> 12.01 ajax的优点是什么，缺点是什么
+>
+> 12.02 使用bootstrap创建垂直表单&&水平表单的基本步骤
+>
+>
+
